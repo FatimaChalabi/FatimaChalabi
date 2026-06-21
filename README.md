@@ -1,5 +1,5 @@
 <h2 align="center">Fatima Chalabi</h2>
-<h4 align="center">Data Analitik</h4>
+<h4 align="center">Data Analyst / BI Developer</h4>
 
 <br>
 
