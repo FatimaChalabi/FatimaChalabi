@@ -39,13 +39,15 @@
 ---
 
 ```markdown
+
+---
+
 ## 📂 Featured Projects
 
 | Project | Tools | Description |
 |---------|-------|-------------|
 | [🏗️ Construction Financial Analytics Dashboard](https://github.com/FatimaChalabi/powerbi-construction-finance-dashboard) | Power BI, DAX | 95 projects · star schema · cost overrun · What-if simulation |
 | [🛍️ Retail Sales Performance Dashboard](https://github.com/FatimaChalabi/powerbi-sales-retail-dashboard) | Power BI, DAX | star schema · 37 DAX measures · RFM segmentation · What-if |
-```
 
 ---
 
