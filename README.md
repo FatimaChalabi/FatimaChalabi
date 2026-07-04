@@ -38,10 +38,6 @@
 
 ---
 
-```markdown
-
----
-
 ## 📂 Featured Projects
 
 | Project | Tools | Description |
