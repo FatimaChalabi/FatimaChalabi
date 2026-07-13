@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏼‍💻 About Me
 
 - 🏦 Experienced in **banking analytics** — customer segmentation, CRM reporting & credit risk analysis
 - 📊 Passionate about turning raw data into actionable business insights
