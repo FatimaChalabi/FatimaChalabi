@@ -37,13 +37,14 @@
 </div>
 
 ---
+
 ## 📁 Featured Projects
 
 | Project | Tools | Description |
 |---|---|---|
 | 🚚 [Logistics & Delivery Analytics Dashboard](https://github.com/FatimaChalabi/powerbi-logistics-delivery-analytics-dashboard) | Power BI, DAX | 45K deliveries · 6 hubs · star schema · fuel-cost simulator |
-| 🏗️ [Construction Financial Analytics Dashboard](https://github.com/FatimaChalabi/construction-financial-analytics-dashboard) | Power BI, DAX | 95 projects · star schema · cost overrun · What-if simulation |
-| 🛍️ [Retail Sales Performance Dashboard](https://github.com/FatimaChalabi/retail-sales-performance-dashboard) | Power BI, DAX | star schema · 37 DAX measures · RFM segmentation · What-if |
+| 🏗️ [Construction Financial Analytics Dashboard](https://github.com/FatimaChalabi/powerbi-construction-finance-dashboard) | Power BI, DAX | 95 projects · star schema · cost overrun · What-if simulation |
+| 🛍️ [Retail Sales Performance Dashboard](https://github.com/FatimaChalabi/powerbi-sales-retail-dashboard) | Power BI, DAX | star schema · 37 DAX measures · RFM segmentation · What-if |
 
 ---
 
