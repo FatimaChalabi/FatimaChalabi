@@ -78,7 +78,7 @@
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/fatimachalabi)
-- 📧 Open to collaboration and new opportunities
+- 🚀 Open to Data Analyst / BI Analyst opportunities in banking and financial services
 
 ---
 
