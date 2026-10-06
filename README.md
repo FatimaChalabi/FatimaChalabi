@@ -22,6 +22,17 @@
 
 ---
 
+## 🏦 Banking Analytics Focus
+
+| Area | What I work on |
+| ---- | -------------- |
+| **Credit Risk** | Portfolio quality monitoring, default-rate analysis by segment, risk reporting |
+| **Customer Analytics** | Customer segmentation, RFM analysis, behavior and activity trends |
+| **CRM Reporting** | Campaign performance, customer lifecycle and cross-sell reporting |
+| **BI & Reporting** | Star-schema models, DAX measures, interactive dashboards for decision makers |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
