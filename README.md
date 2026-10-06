@@ -14,8 +14,8 @@
 ## 👩🏼‍💻 About Me
 
 - 🏦 Experienced in **banking analytics** — customer segmentation, CRM reporting & credit risk analysis
-- 📊 Passionate about turning raw data into actionable business insights
-- 🔍 Focused on **BI Development, Data Analytics & Business Intelligence**
+- 📊 I turn raw banking data into clear, decision-ready insights for business and risk teams
+- 🔍 Focus: **Banking Analytics, BI Development, SQL/PL-SQL, Power BI**
 - 🎓 **Master's degree** in Computer Science — Baku State University *(Honor Diploma)*
 - 🎓 **Bachelor's degree** in Applied Mathematics & Cybernetics — Baku State University
 - 📍 Based in **Baku, Azerbaijan**
